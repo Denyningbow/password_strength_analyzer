@@ -7,12 +7,6 @@ Analyzes password strength based on length and character variety.
 Provides feedback on how to improve password security.
 Easy to use and run from the command line.
 Installation
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/password-strength-analyzer.git
-Navigate to the Project Directory:
 
 bash
 Copy code
